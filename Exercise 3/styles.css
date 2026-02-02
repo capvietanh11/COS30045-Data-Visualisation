@@ -68,3 +68,16 @@ footer {
     bottom: 0;
     width: 100%;
 }
+
+/* Figures and Captions */
+figure {
+    margin: 20px 0;
+    text-align: center;
+}
+
+figcaption {
+    font-style: italic;
+    color: #555;
+    margin-top: 8px;
+    font-size: 0.9em;
+}
